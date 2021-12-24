@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Alyosha
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Mirror Networking
+- 🌱 I’m currently developing a prototype for a product using Mirror networking.
 - 💞️ I’m looking to collaborate on my game
 - 📫 How to reach me https://www.linkedin.com/in/alyosha-vitkouski-804684185/
 
