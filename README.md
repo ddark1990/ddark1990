@@ -1,6 +1,6 @@
 - 👋 Hi, I'm ddark1990
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Mirror Networking
+- 🌱 I’m currently developing a prototype for a product using Mirror networking.
 - 💞️ I’m looking to collaborate on my game
 - 📫 How to reach me: https://github.com/ddark1990
 
