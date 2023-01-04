@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Alyosha
+- 👋 Hi, My name is Alex
 - 👀 I’m interested in Game Development 
 - 🌱 I’m currently developing a prototype for a product using Mirror networking.
 - 💞️ I’m looking to collaborate on my game
